@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "zimiao.moc3",
 		"Textures": [
-			"zimiao.1024/texture_00.png"
+			"zimiao.1024/texture_00.webp"
 		],
 		"Physics": "zimiao.physics3.json",
 		"DisplayInfo": "zimiao.cdi3.json"
